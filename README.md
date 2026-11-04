@@ -21,17 +21,31 @@ Project Dashboards;
 
 Analyses transaction trends, payment methods, interest earned and credit card limits.
 
+![Dashboard 1 - Credit Card Transaction Analysis](Dashboard_1.png)
+
+
 2. Credit Card Revenue & Risk Analysis
 
 Evaluates interest revenue, delinquency rates, credit utilisation and revolving balances.
+
+![Dashboard 2 - Credit Card Risk & Revenue Analysis](Dashboard_2.png)
+
 
 3. Customer Segmentation & Financial Profiling
 
 Explores customer demographics, income patterns, occupation and customer satisfaction.
 
+![Dashboard 3 - Customer Value & Risk Intelligence](Dashboard_3.png)
+
+
 4. Customer Value, Behaviour & Risk Intelligence
 
 Examines customer acquisition cost, activation rates, spending patterns and ownership characteristics.
+
+![Dashboard 4 - Part1](Dashboard_4_part_1.png)
+![Dashboard 4 - Part2](Dashboard_4_part_2.png)
+
+
 
 Workbook Structure;
 
